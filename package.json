@@ -1,0 +1,24 @@
+{
+  "name": "PhaserTD",
+  "version": "1.0.0",
+  "description": "PhaserTrial practice",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyoangel/PhaserTD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyoangel/PhaserTD/issues"
+  },
+  "homepage": "https://github.com/kyoangel/PhaserTD#readme",
+  "devDependencies": {
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  }
+}
